@@ -1,0 +1,24 @@
+#===========
+#obfuscate mode (1:single file 2:library 3:dependent input 22:cleanup dir)
+#===========
+gWorkMode = 1
+
+#===========
+#obfuscate options
+#===========
+gSuperOperatorOn = 0
+gSimplicityOn2 = 0
+
+#===========
+#testing options
+#===========
+gShowStack = 0
+gShowVPC = 0
+gTest = 0
+gDebug = 0
+
+#===========
+#output log
+#===========
+gMakeLogFile = 0
+gMakeLogFileName = 'lf.py'
